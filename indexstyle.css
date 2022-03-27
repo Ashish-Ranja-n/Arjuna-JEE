@@ -3,7 +3,7 @@ body{
 	margin:0px;
 	font-family: 'Righteous';
 	overflow:;
-	background-size:100%;
+	background-size:200%;
 }
 .header{
 	color:black;
@@ -48,6 +48,7 @@ table{
 	box-shadow: 20px 20px 50px black;
 	text-align: center;
 	width:50%;
+	height:50%
 }
 th,tr{
 	padding:10px;
