@@ -1,8 +1,9 @@
 body{
 	background:white linear-gradient(to right,#aa076b,#61045f) repeat-x;
 	margin:0px;
-	font-family: 'Sansita Swashed', cursive;
+	font-family: 'Righteous','Sansita Swashed', cursive;
 	overflow:;
+	background-size:100%;
 }
 .header{
 	color:black;
