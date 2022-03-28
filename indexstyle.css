@@ -1,7 +1,7 @@
 body{
 	background:white linear-gradient(to right,#000428,#004e92);
 	margin:0px;
-	font-family:Righteous,'Sansita Swashed';
+	font-family:Righteous,cursive;
 	overflow:;
 }
 .header{
@@ -40,7 +40,7 @@ h2,h3{
 }
 table{
 	border-collapse: collapse;
-	background-image:linear-gradient(to right,#f46b45,#eea849);
+	background-image:linear-gradient(to right,#ff9966,#ff5e62);
 	color:white;
 	margin:60px auto;
 	border-radius: 10px;
