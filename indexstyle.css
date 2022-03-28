@@ -42,7 +42,7 @@ table{
 	border-collapse: collapse;
 	background-image:linear-gradient(to right,#ff9966,#ff5e62);
 	color:white;
-	margin:60px clamp(40px auto auto);
+	margin:60px auto;
 	border-radius: 10px;
 	box-shadow: 20px 20px 50px black;
 	text-align: center;
