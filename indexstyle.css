@@ -1,5 +1,5 @@
 body{
-	background:white linear-gradient(to right,#aa076b,#61045f) repeat-x;
+	background:white linear-gradient(to right,#000428,#004e92);
 	margin:0px;
 	font-family: 'Righteous';
 	overflow:;
@@ -35,7 +35,7 @@ body{
 
 h2,h3{
 	text-align: center;
-	color:black;
+	color:white;
 
 }
 table{
@@ -58,9 +58,12 @@ th,tr{
            color:white;
            box-shadow: 5px 5px 20px black;
             }
+#demo{
+     color:white;
+}
 p.p2{
 	text-align: center;
-	color:black;
+	color:white;
 	background-color:;
 	border-top:;
 }
