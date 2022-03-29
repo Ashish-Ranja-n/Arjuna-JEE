@@ -1,5 +1,5 @@
 body{
-	background:white linear-gradient(to right,#000428,#004e92) no-repeat;
+	background:white linear-gradient(to right,#000428,#004e92) repeat-y;
 	margin:0px;
 	font-family:'Righteous';
 	overflow:;
