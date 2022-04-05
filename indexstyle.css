@@ -62,6 +62,16 @@ th,tr{
 #demo{
      color:white;
 }
+.contact{
+	text-align: center;
+	margin: 0px auto 60px;
+	font-size: 200%;
+
+}
+.contact a{
+	color: white;
+	padding: 5px 7px;
+}
 p.p2{
 	text-align: center;
 	color:white;
