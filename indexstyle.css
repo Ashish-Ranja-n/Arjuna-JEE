@@ -51,10 +51,10 @@ table{
 	border-radius: 10px;
 	box-shadow: 20px 20px 50px black;
 	text-align: center;
+        font-weight:bold;
 }
 th,tr{
 	padding:10px 12px;
-        font-weight:bold;
 
 }
      tr.day{ background-color:orange;
